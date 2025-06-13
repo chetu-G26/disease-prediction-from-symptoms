@@ -8,6 +8,7 @@ Developed a machine learning application to predict diseases based on symptom da
 ## Dataset
 I used public datasets from:
 •	ColumbiaUniversity:http://people.dbmi.columbia.edu/~friedma/Projects/DiseaseSymptomKB/index.html
+
 •	Kaggle: The dataset is a public dataset acquired from Kaggle. It is a raw dataset which consists of Disease, Count of disease occurrence and Symptoms. https://www.kaggle.com/datasets/itachi9604/disease-symptom-description-dataset
 
 ## Data Preprocessing

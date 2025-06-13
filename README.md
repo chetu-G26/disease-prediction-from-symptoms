@@ -13,23 +13,31 @@ I used public datasets from:
 
 ## Data Preprocessing
 •	Removed duplicates and cleaned symptom/disease names
+
 •	Split multi-symptom rows into individual entries
+
 •	Assigned binary values (0/1) for symptom presence
+
 •	Mapped disease labels to rows
 ## Data Visualization
 •	Correlation heatmap between symptoms
+
 •	Correlation heatmap between diseases
 ## Models Used
 ### 1. Multinomial Naive Bayes
 •	Assumes feature independence
+
 •	Efficient for high-dimensional input
 
 ### 2. Decision Tree Classifier
 •	Captures feature interactions
+
 •	Provides feature importance rankings
 ## Implementation Steps
 •	Train test split
+
 •	Model training and validation
+
 •	Feature importance extraction (from Decision Tree)
 ## Evaluation & Results
 Top symptoms ranked by importance (Decision Tree):
